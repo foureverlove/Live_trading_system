@@ -1,6 +1,8 @@
 # Quantitative Live Trading System
 
 This repository showcases a **live trading system** developed for factor-based quantitative strategies using high-frequency and daily data.
+**Note**: This repository contains proprietary trading strategies and is for demonstration purposes only.  
+**Contact**: For collaboration or detailed inquiries, please reach out to **qtx2711135576@gmail.com**
 
 ## Overview
 - **Data**: ~100 factors from minute-level and daily-level datasets (Level 2 data).  
