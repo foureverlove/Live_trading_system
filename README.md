@@ -1,6 +1,11 @@
 # Quantitative Live Trading System
 
-This repository showcases a **live trading system** developed for factor-based quantitative strategies using high-frequency and daily data.
+This repository showcases a **live trading system** developed for factor-based quantitative strategies using high-frequency(tick_level and minute-level) and daily data.
+**simulation parameter:**
+- **Transaction cost:** **0.05%** commission fee
+- **Exclude:** **ST stocks**, **illiquid stocks**, and stocks hitting **limit up/down**
+- **Execute trades** using the **30-minute VWAP** from market open
+
 **Note**: This repository contains proprietary trading strategies and is for demonstration purposes only.  
 **Contact**: For collaboration or detailed inquiries, please reach out to **qtx2711135576@gmail.com**
 
