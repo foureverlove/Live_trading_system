@@ -10,7 +10,7 @@ This repository showcases a **live trading system** developed for factor-based q
 **Contact**: For collaboration or detailed inquiries, please reach out to **qtx2711135576@gmail.com**
 
 ## Overview
-- **Data**: ~100 factors from minute-level and daily-level datasets.  
+- **Data**: ~100 neutralized factors from minute-level and daily-level datasets.  
 - **Modeling**:  
   - Traditional linear models  
   - Modified Boosting Model and deep learning models for factor combinations  
